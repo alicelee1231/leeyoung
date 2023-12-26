@@ -8,4 +8,3 @@ public class PackageMain3 {
         pack.b.User userB = new pack.b.User();
     }
 }
-/

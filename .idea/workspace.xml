@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cb6608d0-480d-47b7-a6b9-c5c43b69eefc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pack/PackageMain3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pack/PackageMain3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,17 +48,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pack" />
       <recent name="construct" />
       <recent name="oop1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PackageMain2">
-    <configuration name="BookMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="construct.ex.BookMain" />
+  <component name="RunManager" selected="Application.AccessOuterMain">
+    <configuration name="AccessInnerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="access.a.AccessInnerMain" />
       <module name="java-basic2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="construct.ex.*" />
+          <option name="PATTERN" value="access.a.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,38 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="construct.ConstructMain1" />
+    <configuration name="AccessOuterMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="access.b.AccessOuterMain" />
       <module name="java-basic2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="construct.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MemberDefaultMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="construct.MemberDefaultMain" />
-      <module name="java-basic2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="construct.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PackageMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pack.PackageMain1" />
-      <module name="java-basic2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pack.*" />
+          <option name="PATTERN" value="access.b.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,13 +93,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PackageMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pack.PackageMain3" />
+      <module name="java-basic2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpeakerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="access.SpeakerMain" />
+      <module name="java-basic2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="access.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AccessOuterMain" />
+        <item itemvalue="Application.AccessInnerMain" />
+        <item itemvalue="Application.SpeakerMain" />
+        <item itemvalue="Application.PackageMain3" />
         <item itemvalue="Application.PackageMain2" />
-        <item itemvalue="Application.PackageMain1" />
-        <item itemvalue="Application.BookMain" />
-        <item itemvalue="Application.MemberDefaultMain" />
-        <item itemvalue="Application.ConstructMain1" />
       </list>
     </recent_temporary>
   </component>
