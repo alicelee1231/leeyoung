@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb6608d0-480d-47b7-a6b9-c5c43b69eefc" name="Changes" comment="" />
+    <list default="true" id="cb6608d0-480d-47b7-a6b9-c5c43b69eefc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -44,19 +47,22 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/memory" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="pack" />
       <recent name="construct" />
       <recent name="oop1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JavaMemoryMain1">
-    <configuration name="BankAccountMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="access.b.BankAccountMain" />
+  <component name="RunManager" selected="Application.DecoMain2">
+    <configuration name="DataCountMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="static1.DataCountMain1" />
       <module name="java-basic2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="access.b.*" />
+          <option name="PATTERN" value="static1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CounterMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="access.ex.CounterMain" />
+    <configuration name="DataCountMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="static1.DataCountMain2" />
       <module name="java-basic2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="access.ex.*" />
+          <option name="PATTERN" value="static1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaMemoryMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="memory.JavaMemoryMain1" />
+    <configuration name="DataCountMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="static1.DataCountMain3" />
       <module name="java-basic2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="memory.*" />
+          <option name="PATTERN" value="static1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PublicClassOuterMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="access.b.PublicClassOuterMain" />
+    <configuration name="DecoMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="static1.DecoMain1" />
       <module name="java-basic2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="access.b.*" />
+          <option name="PATTERN" value="static1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShoppingCartMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="access.ex.ShoppingCartMain" />
+    <configuration name="DecoMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="static1.DecoMain2" />
       <module name="java-basic2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="access.ex.*" />
+          <option name="PATTERN" value="static1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JavaMemoryMain1" />
-        <item itemvalue="Application.ShoppingCartMain" />
-        <item itemvalue="Application.CounterMain" />
-        <item itemvalue="Application.BankAccountMain" />
-        <item itemvalue="Application.PublicClassOuterMain" />
+        <item itemvalue="Application.DecoMain2" />
+        <item itemvalue="Application.DecoMain1" />
+        <item itemvalue="Application.DataCountMain3" />
+        <item itemvalue="Application.DataCountMain2" />
+        <item itemvalue="Application.DataCountMain1" />
       </list>
     </recent_temporary>
   </component>
