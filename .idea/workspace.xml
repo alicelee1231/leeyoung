@@ -51,13 +51,14 @@
       <recent name="$PROJECT_DIR$/src/memory" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="final1" />
       <recent name="static1" />
       <recent name="pack" />
       <recent name="construct" />
       <recent name="oop1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MathArrayUtilsMain">
+  <component name="RunManager" selected="Application.ConstatntMain2">
     <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="static2.ex.CarMain" />
       <module name="java-basic2" />
@@ -71,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecoMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="static1.DecoMain1" />
+    <configuration name="ConstatntMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="final1.ConstatntMain1" />
       <module name="java-basic2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="static1.*" />
+          <option name="PATTERN" value="final1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecoMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="static1.DecoMain2" />
+    <configuration name="ConstatntMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="final1.ConstatntMain2" />
       <module name="java-basic2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="static1.*" />
+          <option name="PATTERN" value="final1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecodataMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="static2.DecodataMain" />
+    <configuration name="FinalFieldMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="final1.FinalFieldMain" />
       <module name="java-basic2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="static2.*" />
+          <option name="PATTERN" value="final1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConstatntMain2" />
+        <item itemvalue="Application.ConstatntMain1" />
+        <item itemvalue="Application.FinalFieldMain" />
         <item itemvalue="Application.MathArrayUtilsMain" />
         <item itemvalue="Application.CarMain" />
-        <item itemvalue="Application.DecodataMain" />
-        <item itemvalue="Application.DecoMain2" />
-        <item itemvalue="Application.DecoMain1" />
       </list>
     </recent_temporary>
   </component>
