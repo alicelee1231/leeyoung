@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="cb6608d0-480d-47b7-a6b9-c5c43b69eefc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extends1/ex3/CarMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extends1/ex3/CarMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extends1/ex3/HydrogenCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extends1/ex3/HydrogenCar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,20 +53,20 @@
       <recent name="$PROJECT_DIR$/src/memory" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="extends1.ex2" />
       <recent name="final1" />
       <recent name="static1" />
       <recent name="pack" />
       <recent name="construct" />
-      <recent name="oop1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConstatntMain2">
+  <component name="RunManager" selected="Application.CarMain">
     <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="static2.ex.CarMain" />
+      <option name="MAIN_CLASS_NAME" value="extends1.ex3.CarMain" />
       <module name="java-basic2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="static2.ex.*" />
+          <option name="PATTERN" value="extends1.ex3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathArrayUtilsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="static2.ex.MathArrayUtilsMain" />
+    <configuration name="extends1.ex2.CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extends1.ex2.CarMain" />
       <module name="java-basic2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="static2.ex.*" />
+          <option name="PATTERN" value="extends1.ex2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarMain" />
+        <item itemvalue="Application.extends1.ex2.CarMain" />
         <item itemvalue="Application.ConstatntMain2" />
         <item itemvalue="Application.ConstatntMain1" />
         <item itemvalue="Application.FinalFieldMain" />
-        <item itemvalue="Application.MathArrayUtilsMain" />
-        <item itemvalue="Application.CarMain" />
       </list>
     </recent_temporary>
   </component>
