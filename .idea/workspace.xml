@@ -63,7 +63,7 @@
       <recent name="construct" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SuperMain">
+  <component name="RunManager" selected="Application.ShopMain">
     <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="extends1.ex3.CarMain" />
       <module name="java-basic2" />
@@ -77,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstatntMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="final1.ConstatntMain1" />
+    <configuration name="ShopMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extends1.ex.ShopMain" />
       <module name="java-basic2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="final1.*" />
+          <option name="PATTERN" value="extends1.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstatntMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="final1.ConstatntMain2" />
+    <configuration name="Super2Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="super2.Super2Main" />
       <module name="java-basic2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="final1.*" />
+          <option name="PATTERN" value="super2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShopMain" />
+        <item itemvalue="Application.Super2Main" />
         <item itemvalue="Application.SuperMain" />
         <item itemvalue="Application.CarMain" />
         <item itemvalue="Application.extends1.ex2.CarMain" />
-        <item itemvalue="Application.ConstatntMain2" />
-        <item itemvalue="Application.ConstatntMain1" />
       </list>
     </recent_temporary>
   </component>
