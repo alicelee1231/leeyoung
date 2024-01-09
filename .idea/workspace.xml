@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cb6608d0-480d-47b7-a6b9-c5c43b69eefc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extends1/ex/dayCal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extends1/ex/dayCal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/poly/basic/CastingMain6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poly/basic/CastingMain6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,20 +63,20 @@
       <recent name="$PROJECT_DIR$/src/memory" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="poly.ex1" />
       <recent name="poly.basic" />
       <recent name="extends1.ex2" />
       <recent name="final1" />
       <recent name="static1" />
-      <recent name="pack" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OverridingMain">
-    <configuration name="CastingMain5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poly.basic.CastingMain5" />
+  <component name="RunManager" selected="Application.AnimalSoundMain">
+    <configuration name="AnimalSoundMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.ex1.AnimalSoundMain" />
       <module name="java-basic2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="poly.basic.*" />
+          <option name="PATTERN" value="poly.ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnimalSoundMain" />
         <item itemvalue="Application.OverridingMain" />
         <item itemvalue="Application.CastingMain6" />
         <item itemvalue="Application.dayCal" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.CastingMain5" />
       </list>
     </recent_temporary>
   </component>
