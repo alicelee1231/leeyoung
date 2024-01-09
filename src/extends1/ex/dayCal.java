@@ -29,6 +29,7 @@ public class dayCal {
 //            System.out.println(startYear + " year");
             while(true){
                if(change >= endDt){
+                   System.out.println(endDt+"enddt");
                    break;
                }
                cal.add(Calendar.DATE, 1);

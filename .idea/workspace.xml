@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cb6608d0-480d-47b7-a6b9-c5c43b69eefc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/extends1/ex/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extends1/ex/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extends1/ex/dayCal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extends1/ex/dayCal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/poly/basic/CastingMain6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poly/basic/CastingMain6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,39 +72,39 @@
       <recent name="pack" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.dayCal">
-    <configuration name="CastingMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poly.basic.CastingMain1" />
-      <module name="java-basic2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="poly.basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CastingMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poly.basic.CastingMain2" />
-      <module name="java-basic2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="poly.basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.OverridingMain">
     <configuration name="CastingMain5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="poly.basic.CastingMain5" />
       <module name="java-basic2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="poly.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CastingMain6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.basic.CastingMain6" />
+      <module name="java-basic2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="poly.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OverridingMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.overriding.OverridingMain" />
+      <module name="java-basic2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="poly.overriding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OverridingMain" />
+        <item itemvalue="Application.CastingMain6" />
         <item itemvalue="Application.dayCal" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.CastingMain5" />
-        <item itemvalue="Application.CastingMain2" />
-        <item itemvalue="Application.CastingMain1" />
       </list>
     </recent_temporary>
   </component>
