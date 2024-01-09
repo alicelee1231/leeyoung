@@ -19,25 +19,27 @@ public class test {
             Date date = formatter.parse(ymd);
             date.before(date);
 
-            cal.setTime(date);
-            System.out.println(cal);
+//            System.out.println(formatter.format(cal.getTime()));
+            cal.setTime(date); //date객체를 calendar로 변환
+//            System.out.println(cal);
             //cal.add(Calendar.DAY_OF_MONTH,1);
             String rslt = formatter.format(cal.getTime());
-
+//            System.out.println(rslt);
             int last = cal.getActualMaximum(Calendar.DAY_OF_MONTH);
-            System.out.println(last);
+//            System.out.println(last);
             //System.out.println(rslt);
             for(int i = 0; i < last; i++){
-                String date2 = formatter.format(cal.getTime());
+                String date2 = formatter.format(cal.getTime());//settime에서 지정한 날짜가 들어감
+                //calendar가 나타내는 날짜와 같은 날짜를 나타내는 date객체를 리턴
                 System.out.println(date2);
                 cal.add(Calendar.DAY_OF_MONTH, 1);
             }
-            while(){
-                // true 일 때 루프 돌고
-                //참이냐 거짓이냐 나오는 것이 조건...
-                //before, after method찾기
-                // false 이면 멈춤
-            }
+//            while(){
+//                // true 일 때 루프 돌고
+//                //참이냐 거짓이냐 나오는 것이 조건...
+//                //before, after method찾기
+//                // false 이면 멈춤
+//            }
 
         }catch (Exception e) {
             System.out.println(e.getMessage());
