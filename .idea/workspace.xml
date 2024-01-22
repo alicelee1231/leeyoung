@@ -65,14 +65,14 @@
       <recent name="$PROJECT_DIR$/src/memory" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="poly.car0" />
       <recent name="poly.diamonds" />
       <recent name="ex5" />
       <recent name="poly.ex3" />
       <recent name="poly.ex2" />
-      <recent name="poly.ex1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SoundFlyMain">
+  <component name="RunManager" selected="Application.CarMain0">
     <configuration name="AbstractMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="poly.ex3.AbstractMain" />
       <module name="java-basic2" />
@@ -86,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnimalSoundMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poly.ex1.AnimalSoundMain" />
+    <configuration name="CarMain0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.car0.CarMain0" />
       <module name="java-basic2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="poly.ex1.*" />
+          <option name="PATTERN" value="poly.car0.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarMain0" />
         <item itemvalue="Application.SoundFlyMain" />
         <item itemvalue="Application.InterfaceMain" />
         <item itemvalue="Application.ex4.AbstractMain" />
         <item itemvalue="Application.AbstractMain" />
-        <item itemvalue="Application.AnimalSoundMain" />
       </list>
     </recent_temporary>
   </component>
