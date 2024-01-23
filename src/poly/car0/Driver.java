@@ -1,6 +1,7 @@
 package poly.car0;
 
 public class Driver {
+    //driver는 k3car, model3car에 의존한다.
     private K3Car k3Car;
     private Model3Car model3Car;
 

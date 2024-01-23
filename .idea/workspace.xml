@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cb6608d0-480d-47b7-a6b9-c5c43b69eefc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poly/car0/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poly/car0/Driver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,13 +73,13 @@
       <recent name="poly.ex2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CarMain0">
-    <configuration name="AbstractMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poly.ex3.AbstractMain" />
+  <component name="RunManager" selected="Application.CarMain1">
+    <configuration name="CarMain0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.car0.CarMain0" />
       <module name="java-basic2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="poly.ex3.*" />
+          <option name="PATTERN" value="poly.car0.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarMain0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="poly.car0.CarMain0" />
+    <configuration name="CarMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.car1.CarMain1" />
       <module name="java-basic2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="poly.car0.*" />
+          <option name="PATTERN" value="poly.car1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarMain1" />
         <item itemvalue="Application.CarMain0" />
         <item itemvalue="Application.SoundFlyMain" />
         <item itemvalue="Application.InterfaceMain" />
         <item itemvalue="Application.ex4.AbstractMain" />
-        <item itemvalue="Application.AbstractMain" />
       </list>
     </recent_temporary>
   </component>
