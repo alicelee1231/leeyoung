@@ -12,8 +12,8 @@ public class CarMain1 {
         driver.drive();
 
         //차량 변경
-        Model3Car model3Car = new Model3Car();
-        driver.setCar(model3Car);
-        driver.drive();;
+//        Model3Car model3Car = new Model3Car();
+//        driver.setCar(model3Car);
+//        driver.drive();;
     }
 }

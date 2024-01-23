@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cb6608d0-480d-47b7-a6b9-c5c43b69eefc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/poly/car0/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poly/car0/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poly/car1/CarMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poly/car1/CarMain1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +73,7 @@
       <recent name="poly.ex2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CarMain1">
+  <component name="RunManager" selected="Application.PayMain0">
     <configuration name="CarMain0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="poly.car0.CarMain0" />
       <module name="java-basic2" />
@@ -100,12 +100,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex5.InterfaceMain" />
+    <configuration name="PayMain0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.pay0.PayMain0" />
       <module name="java-basic2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex5.*" />
+          <option name="PATTERN" value="poly.pay0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SendMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.sender.SendMain" />
+      <module name="java-basic2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="poly.sender.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,26 +139,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex4.AbstractMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex4.AbstractMain" />
-      <module name="java-basic2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PayMain0" />
+        <item itemvalue="Application.SendMain" />
         <item itemvalue="Application.CarMain1" />
         <item itemvalue="Application.CarMain0" />
         <item itemvalue="Application.SoundFlyMain" />
-        <item itemvalue="Application.InterfaceMain" />
-        <item itemvalue="Application.ex4.AbstractMain" />
       </list>
     </recent_temporary>
   </component>
